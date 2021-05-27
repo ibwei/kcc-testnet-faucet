@@ -1,0 +1,7 @@
+.DS_Store
+node_modules/
+public/assets/javascripts/application.js
+public/stylesheets/application.css
+.*.sw*
+config.json
+public/node_modules
